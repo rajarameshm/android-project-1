@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="smallButtonRsrc">small Button</string>
+    <string name="buttonRsrc">Click Me</string>
+    <string name="toggleButton">Toggle Button</string>
+</resources>
